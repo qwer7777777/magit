@@ -2,7 +2,7 @@ package qwer;
 
 public class asdf {
 	
-	private int id;
+	private int id;//我最帅
 	private String username;
 	private String password;
 	private int sex;
